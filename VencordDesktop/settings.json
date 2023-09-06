@@ -1,0 +1,14 @@
+{
+    "minimizeToTray": "on",
+    "discordBranch": "stable",
+    "firstLaunch": false,
+    "arRPC": "on",
+    "windowBounds": {
+        "x": -8,
+        "y": -8,
+        "width": 1366,
+        "height": 728
+    },
+    "maximized": true,
+    "minimized": false
+}
