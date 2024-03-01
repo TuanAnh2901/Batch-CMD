@@ -1,0 +1,2 @@
+// New-Alias: Give a shorter name for an executation when typing in PowerShell commandline
+Ex: New-Alias -Name fanbox-dl -Value "C:\Users\Admin\Downloads\Programs\fanbox-dl_0.18.2_Windows_x86_64.exe"
